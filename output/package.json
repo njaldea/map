@@ -1,0 +1,24 @@
+{
+    "name": "@nil-/map",
+    "version": "0.0.4",
+    "description": "",
+    "author": {
+        "name": "Neil Jayson Aldea",
+        "email": "njaldea@gmail.com"
+    },
+    "keywords": [
+        "map",
+        "mvt",
+        "vectortile"
+    ],
+    "exports": {
+        ".": "./index.js",
+        "./package.json": "./package.json"
+    },
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://gitlab.com/njaldea/map.git"
+    },
+    "type": "module"
+}
